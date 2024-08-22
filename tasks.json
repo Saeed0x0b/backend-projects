@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "status": "done",
+    "createdAt": "2024-08-22T11:26:40.050Z",
+    "updatedAt": "2024-08-22T11:26:40.050Z"
+  },
+  {
+    "id": 2,
+    "name": "do laundry",
+    "description": "do laundry of house and neighbors",
+    "status": "todo",
+    "createdAt": "2024-08-22T11:26:47.544Z",
+    "updatedAt": "2024-08-22T11:26:47.544Z"
+  },
+  {
+    "id": 3,
+    "name": "do laundry",
+    "description": "s",
+    "status": "todo",
+    "createdAt": "2024-08-22T11:27:16.387Z",
+    "updatedAt": "2024-08-22T11:27:16.387Z"
+  }
+]
